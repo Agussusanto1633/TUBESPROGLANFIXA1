@@ -45,7 +45,6 @@ src/
     Pasien/
       MenuPasien.java
       PengambilanObat.java
-      Pengembalian.java
 ```
 
 ## Deskripsi File
@@ -64,23 +63,10 @@ src/
 ### Modul Pasien (`tugasbesar/Pasien/`)
 - **MenuPasien.java**: Menyediakan antarmuka menu utama untuk pasien.
 - **PengambilanObat.java**: Mengelola proses pengambilan obat oleh pasien.
-- **Pengembalian.java**: Mengelola proses pengembalian item yang dipinjam (jika berlaku).
 
 ## Catatan
 - Proyek ini disusun untuk memisahkan fungsionalitas yang terkait dengan administrator dan pasien ke dalam modul yang terdedikasi untuk kejelasan dan kemudahan pemeliharaan.
 - Semua file sumber dikelompokkan dalam direktori `src/`.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## **Langkah-langkah Menjalankan Aplikasi**
