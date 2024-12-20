@@ -1,6 +1,6 @@
 # **Rumah Sakit Management System**
 
-Aplikasi ini merupakan sistem manajemen rumah sakit berbasis JavaFX, dirancang untuk membantu administrasi rumah sakit dalam mengelola data pasien, obat, dan pengambilan obat.
+Aplikasi ini merupakan sistem manajemen rumah sakit berbasis JavaFX dan javax , dirancang untuk membantu administrasi rumah sakit dalam mengelola data pasien, obat, dan pengambilan obat.
 
 ## **Fitur Utama**
 - **Login Admin**: Akses menu admin untuk mengelola data pasien dan obat.
